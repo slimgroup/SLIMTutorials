@@ -1,15 +1,15 @@
 # ML4SeismicTutorials
 
-Tutorial for the ML4Seismic partner meeting
+Tutorials for the 2021 ML4Seismic Partners Meeting
 
 
 ## Guidelines
 
-This serie of tutorial is meant to show simple example of how to use our software. If you are un-familiar with julia and notebook in general, let us know and we will have a walk-thoriugh of the basics
+This series of tutorials is meant to show simple examples of how to use our software. If you are un-familiar with julia and notebooks in general, let us know and we will have a walk-through of the basics.
 
 ## Package availability
 
-For simplicity, only the most basic packwages are installed in the environment. For any package missing in the notebooks, you can add an extra cell at the top to install the missing package:
+For simplicity, only the most basic packages are installed in the environment. For any package missing in the notebooks, you can add an extra cell at the top to install the missing package:
 
 ```julia
 using Pkg
