@@ -17,3 +17,13 @@ Pkg.add(["Pkg1", "Pkg2", ...])
 ```
 
 where `Pkg1, Pkg2, ..` are the names of the packages to be installed. These packages will be installed in your user environment and will not impact other users.
+
+## Data
+
+Some of the notebook require data. On the jupyterhub we setup, the data is pre-downloaded in the path used in the notebooks but you will it to download it yourself to run the tutorials on your own machine. To download the data run
+```bash
+curl -L -o data.zip https://www.dropbox.com/sh/m2ksfp7wjww3jds/AADswzf_8ZdMiDW-nmrLNgJ0a?dl=0
+unzip data.zip -d path/to/data/you/want
+```
+
+and modify the data loading lines in the notebook according to the new path of the data folder.
