@@ -4,7 +4,11 @@ This repository includes notebook tutorials in the Seismic Laboratory for Image 
 
 ## TRANSFORM 22 Tutorial
 
-[Ziyi (Francis) Yin](https://slim.gatech.edu/people/ziyi-yin) will be giving a 2-hour live talk with the title "Julia for Geoscience" at 2PM UTC on April 27 in [TRANSFORM 2022 conference](https://transform.softwareunderground.org/overview/sessions). Please visit [here](https://transform.softwareunderground.org/2022-julia-for-geoscience/) for the details and [here](https://www.youtube.com/watch?v=HyWfp3NzIbg) for the youtube link. The talk will cover a few tutorials in this repository, including:
+[Ziyi (Francis) Yin](https://slim.gatech.edu/people/ziyi-yin) will be giving a 2-hour live talk with the title [Julia for Geoscience](https://transform.softwareunderground.org/2022-julia-for-geoscience) at 10 AM ET on April 27 in [TRANSFORM 2022 conference](https://transform.softwareunderground.org/overview/sessions). 
+
+[![Julia4Geoscience](https://img.youtube.com/vi/HyWfp3NzIbg/0.jpg)](https://www.youtube.com/watch?v=HyWfp3NzIbg)
+
+The talk will cover a few tutorials in this repository, including:
 
 | Name | Link | Associated software |
 |-----------------------------------------------|------------------|-------------------|
