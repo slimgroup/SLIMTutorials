@@ -25,13 +25,13 @@ Please also feel free to take a look at other notebooks in the repository if you
 If you don't want to manually install Julia or the Julia packages used in this repository, you can also run these tutorials on a [docker image](https://www.docker.com/). You can execute the following command in your terminal:
 
 ```bash
-docker run -p 8888:8888 mloubout/judi:1.7-latest
+docker run -p 8888:8888 mloubout/judi:1.7-dev
 ```
 
 This command downloads the image and launches a container. You will see a link that you can copy-paste to your browser to access the notebooks. Alternatively, you can run a bash session, in which you can start a regular interactive Julia session and run the example scripts. You can download/start the container as a bash session via the following command:
 
 ```julia
-docker run -it mloubout/judi:1.7-latest /bin/bash
+docker run -it mloubout/judi:1.7-dev /bin/bash
 ```
 
 ## Package availability
